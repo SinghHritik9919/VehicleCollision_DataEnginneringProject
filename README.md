@@ -16,7 +16,9 @@ The dataset consists of collision records from the above cities, obtained in **C
 
 ### 1️⃣ Data Profiling  
 - **Tool Used**: *Alteryx*  
-- **Purpose**: Perform an initial assessment of data quality, detect missing values, and understand the structure of datasets.  
+- **Purpose**: Perform an initial assessment of data quality, detect missing values, and understand the structure of datasets.
+- ![image](https://github.com/user-attachments/assets/a18b2b57-841e-44cc-af70-d306c84e1e6d)
+
 
 ### 2️⃣ Data Ingestion  
 - **Tool Used**: *Azure Data Factory (ADF)*  
@@ -29,7 +31,9 @@ The dataset consists of collision records from the above cities, obtained in **C
 - **Process**:  
   - Cleanse and standardize datasets.  
   - Handle missing, inconsistent, or erroneous data.  
-  - Combine data from all four cities into a **single unified table** in Snowflake.  
+  - Combine data from all four cities into a **single unified table** in Snowflake.
+  - ![fact](https://github.com/user-attachments/assets/49567ebc-1359-46e2-ac2b-75e607c40bb7)
+ 
 
 ### 4️⃣ Data Visualization  
 - **Tools Used**: *Power BI & Tableau*  
@@ -40,7 +44,12 @@ The dataset consists of collision records from the above cities, obtained in **C
 ## 🛠️ Technologies Used  
 - **ETL & Data Processing**: Alteryx, Azure Data Factory, Talend  
 - **Database & Storage**: Snowflake  
-- **Visualization**: Power BI, Tableau  
+- **Visualization**: Power BI, Tableau
+- ![image](https://github.com/user-attachments/assets/660bd509-d558-4aec-961f-8df270739365)
+- ![image](https://github.com/user-attachments/assets/d4e44b48-ae24-49a0-919c-39f0809ed3aa)
+
+
+
 
 ## 🚀 Future Enhancements  
 - Implement **real-time** data ingestion.  
