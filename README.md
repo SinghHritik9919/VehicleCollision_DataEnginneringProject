@@ -24,7 +24,9 @@ The dataset consists of collision records from the above cities, obtained in **C
 - **Tool Used**: *Azure Data Factory (ADF)*  
 - **Process**:  
   - Each city's data is ingested individually from **TSV/CSV** files.  
-  - The data is loaded into Snowflake as raw tables.  
+  - The data is loaded into Snowflake as raw tables.
+  - ![image](https://github.com/user-attachments/assets/1b42fafa-f56e-41c8-9b95-ac7a3f7daf22)
+ 
 
 ### 3️⃣ Data Transformation & Integration  
 - **Tool Used**: *Talend*  
